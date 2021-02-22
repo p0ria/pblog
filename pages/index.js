@@ -9,6 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:title" content="Pooria Amanzadeh's Blog Website" />
         <meta property="og:image" content="https://seosetups.com/wp-content/uploads/2018/03/twitterexample.png" />
+        <meta name="twitter:card" content="summary_large_image" />
       </Head>
 
       <main className={styles.main}>
