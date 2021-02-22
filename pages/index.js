@@ -7,6 +7,8 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta property="og:title" content="Pooria Amanzadeh's Blog Website" />
+        <meta property="og:image" content="https://seosetups.com/wp-content/uploads/2018/03/twitterexample.png" />
       </Head>
 
       <main className={styles.main}>
