@@ -10,7 +10,7 @@ export default function Home() {
         <meta property="og:title" content="Pooria Amanzadeh's Blog Website" />
         <meta property="og:image" content="https://seosetups.com/wp-content/uploads/2018/03/twitterexample.png" />
         <meta property="og:url" content="https://heroku-pblog.herokuapp.com/" />
-        <meta name="twitter:card" content="summary_large_image" />
+        <meta property="og:site_name" content="بلاگ پوریا امن زاده" />
       </Head>
 
       <main className={styles.main}>
